@@ -1,0 +1,1 @@
+web: gunicorn peace_watch.wsgi
